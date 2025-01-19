@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The Order of accuracy achieved by Trapezoidal Rule is ?",
+        "qid": 1,
+        "option_a": "3rd Order",
+        "option_b": "1st Order",
+        "option_c": "5th Order",
+        "option_d": "4th Order",
+        "correct_option": "b"
+    },
+    {
+        "question": "For un-equal segaments interval, one can use",
+        "qid": 2,
+        "option_a": "Simpson's 1/3 Rule",
+        "option_b": "Simpson's 3/8 Rule",
+        "option_c": "Definitely Trapazoidal Rule",
+        "option_d": "all of the above",
+        "correct_option": "c"
+    }
+]

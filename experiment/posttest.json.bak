@@ -1,0 +1,26 @@
+
+[
+    {
+        "question": "Given that X can various values [1, 2, 2.5, 3, 3.25, 3.5, 3.75] and Y(x) has respective values [19.4, 11.2, 21.4, 19.8, 23.6, 24.4, 16.9].  Find the value of Integration of Y such as y(1) to y(2) will be calculated using trapazoidal rule, y(2) to y(3.25) will be calculated as Simpson's (1/3) rule and y(3.25) to y(3.75) will be calculated as Simpson's (3/8) rule.",
+        "qid": 1,
+        "option_a": "51.673",
+        "option_b": "34.048",
+        "option_c": "51.224",
+        "option_d": "50.468",
+        "correct_option": "a"
+    },
+    {
+       "question": "Given that X can various values [1, 2, 2.5, 3, 3.25, 3.5, 3.75] and Y(x) has respective values [11.3, 24.6, 22.8, 18.6, 20.8, 9.9, 15.9].  Find the value of Integration of Y such as y(1) to y(2) will be calculated using trapazoidal rule, y(2) to y(3.25) will be calculated as Simpson's (1/3) rule and y(3.25) to y(3.75) will be calculated as Simpson's (3/8) rule.",
+       "qid": 2,
+       "option_a": "51.673",
+       "option_b": "84.368",
+       "option_c": "57.244",
+       "option_d": "52.218",
+       "correct_option": "d"
+   }
+   
+ ]
+ 
+ 
+ 
+ 
