@@ -33,7 +33,7 @@ function start_act1() {
         <div id='x-y-table'></div>
         <br>
 
-        <h5>Observe carefully the values of X and find out the value of h beside the suitable integration method to achieve the high order accuracy</h5> <br>
+        <h5>Observe carefully the values of X and find out the value of h and select appropriate integration method to achieve the high order accuracy</h5> <br>
 
         <div style='text-align: center;'><span style='display: inline-block;' >$$ I_1 \\ = \\ \\frac{h_{x1}}{2}(y_1 + y_2) \\ \\ $$</span> (Trapazoidal rule)</div>
         <div style='text-align: center;'><span style='display: inline-block;'>$$ h_{x1} \\ = \\ {x_2 - x_1} \\ $$</span> = <input type='number' class='form-control' style='display: inline-block !important; width: 120px;' id='h1-inp' > <span id='dsp-h1'></span></div>
